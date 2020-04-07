@@ -1,0 +1,199 @@
+﻿  pch.cpp
+  Ctd.cpp
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(32,29): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(41,33): warning C4838:  conversion from 'double' to 'float' requires a narrowing conversion
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(41,33): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(45,238): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(46,138): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(46,100): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(46,62): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(51,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(56,51): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(56,51): warning C4244:         with
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(56,51): warning C4244:         [
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(56,51): warning C4244:             T=float
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(56,51): warning C4244:         ]
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(59,222): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(60,138): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(60,100): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(60,62): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(64,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(69,51): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(69,51): warning C4244:         with
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(69,51): warning C4244:         [
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(69,51): warning C4244:             T=float
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(69,51): warning C4244:         ]
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(72,222): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(73,138): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(73,100): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(73,62): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(77,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(82,51): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(82,51): warning C4244:         with
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(82,51): warning C4244:         [
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(82,51): warning C4244:             T=float
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(82,51): warning C4244:         ]
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(86,238): warning C4244:  'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(87,138): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(87,100): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(87,62): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(91,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(96,51): warning C4244:  'argument': conversion from 'double' to 'T', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(96,51): warning C4244:         with
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(96,51): warning C4244:         [
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(96,51): warning C4244:             T=float
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(96,51): warning C4244:         ]
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(100,138): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(100,100): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(100,62): warning C4244:  'argument': conversion from 'double' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(104,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(127,12): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(147,12): warning C4244:  'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(148,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(151,29): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(164,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(172,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(183,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(183,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(183,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(191,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(199,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(209,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(209,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(209,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(213,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(213,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(213,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(217,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(225,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(235,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(235,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(235,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(239,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(239,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(239,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(243,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(251,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(261,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(261,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(261,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(267,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(275,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(285,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(285,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(285,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(291,27): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(299,18): warning C4244:  '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(309,36): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(309,33): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(309,30): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(334,12): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(353,29): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(358,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(359,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(391,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(398,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(398,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(398,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(402,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(409,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(409,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(409,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(414,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(422,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(422,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(422,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(426,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(434,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(434,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(434,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(439,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(447,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(447,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(447,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(460,14): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(476,29): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(481,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(482,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(512,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(520,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(520,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(520,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(525,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(533,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(533,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(533,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(538,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(546,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(546,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(546,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(551,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(559,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(559,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(559,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(564,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(572,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(572,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(572,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(577,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(585,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(585,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(585,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(590,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(598,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(598,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(598,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(603,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(611,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(611,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(611,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(616,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(624,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(624,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(624,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(629,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(637,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(637,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(637,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(650,12): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(664,29): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(669,10): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(670,11): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(708,14): warning C4244:  '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(719,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(727,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(727,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(727,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(732,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(740,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(740,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(740,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(745,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(753,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(753,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(753,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(758,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(766,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(766,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(766,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(771,29): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(779,89): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(779,68): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(779,47): warning C4244:  'argument': conversion from 'float' to 'sf::Uint8', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(875,40): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(875,26): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,43): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,43): warning C4244:         with
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,43): warning C4244:         [
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,43): warning C4244:             T=float
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,43): warning C4244:         ]
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,36): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,36): warning C4244:         with
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,36): warning C4244:         [
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,36): warning C4244:             T=float
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(887,36): warning C4244:         ]
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(891,31): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Shapes.h(891,20): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\dragon curve\dragon curve\Ctd.cpp(16,28): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\dragon curve\dragon curve\Ctd.cpp(20,20): warning C4305:  'initializing': truncation from 'double' to 'float'
+sfml-graphics-d.lib(sfml-graphics-d-2.dll) : fatal error LNK1112: module machine type 'x64' conflicts with target machine type 'x86'
