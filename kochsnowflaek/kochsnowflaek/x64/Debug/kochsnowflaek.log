@@ -1,0 +1,10 @@
+﻿  Ctd.cpp
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Shapes.h(19,26): warning C4305:  'initializing': truncation from 'double' to 'float'
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Ctd.cpp(26,44): warning C4244:  'argument': conversion from 'int' to 'T', possible loss of data
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Ctd.cpp(26,44): warning C4244:         with
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Ctd.cpp(26,44): warning C4244:         [
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Ctd.cpp(26,44): warning C4244:             T=float
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Ctd.cpp(26,44): warning C4244:         ]
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Ctd.cpp(73,21): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\track\source\repos\kochsnowflaek\kochsnowflaek\Ctd.cpp(78,32): warning C4244:  'argument': conversion from 'int' to 'float', possible loss of data
+  kochsnowflaek.vcxproj -> C:\Users\track\source\repos\kochsnowflaek\x64\Debug\kochsnowflaek.exe
